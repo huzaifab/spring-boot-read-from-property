@@ -1,0 +1,7 @@
+application:
+  name: spring-boot-read-from-property
+
+
+
+
+server.port: 10000
